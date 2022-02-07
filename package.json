@@ -1,0 +1,11 @@
+{
+  "name": "OnChainNFTBuilder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/boringcrypto/OnChainNFTBuilder.git",
+  "author": "BoringCrypto <b@rtje.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "@boringcrypto/hardhat-framework": "boringcrypto/hardhat-framework"
+  }
+}
